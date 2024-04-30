@@ -8,6 +8,7 @@ public class platformControl : MonoBehaviour
     public Vector3 myScale;
     public float fallTimer = .6f;
     float xScale;
+    float zScale;
     float timer = 1;
 
     // Start is called before the first frame update
